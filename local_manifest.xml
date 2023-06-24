@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/infinix/X6816" name="IMYdev/android_device_infinix_X6816.git" remote="github" revision="lineage-18.1" />
+ <project path="vendor/infinix/X6816" name="IMYdev/android_vendor_infinix_X6816.git" remote="github" revision="Android-R" /> 
+</manifest>
