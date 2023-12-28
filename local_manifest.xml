@@ -2,6 +2,6 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/infinix/lion" name="IMYdev/android_device_infinix_lion.git" remote="github" revision="lineage-18.1" />
+ <project path="device/infinix/lion" name="IMYdev/android_device_infinix_lion.git" remote="github" revision="lineage-20.0" />
  <project path="vendor/infinix/lion" name="IMYdev/android_vendor_infinix_lion.git" remote="github" revision="main-lion" /> 
 </manifest>
