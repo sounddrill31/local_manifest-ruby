@@ -3,5 +3,7 @@
 
  <!-- Trees -->
  <project path="device/infinix/lion" name="IMYdev/device_infinix_lion.git" remote="github" revision="lineage-20" />
- <project path="vendor/infinix/lion" name="IMYdev/android_vendor_infinix_lion.git" remote="github" revision="main-lion" /> 
+ <project path="vendor/infinix/lion" name="IMYdev/android_vendor_infinix_lion.git" remote="github" revision="main-lion" />
+ <project path="device/mediatek/sepolicy_vndr" name="dandelion64-Archives/android_hardware_mediatek.git" remote="github" revision="lineage-20" />
+ <project path="hardware/mediatek" name="LineageOS/android_device_mediatek_sepolicy_vndr.git" remote="github" revision="lineage-20" />
 </manifest>
