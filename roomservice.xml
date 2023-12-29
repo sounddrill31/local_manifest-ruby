@@ -2,8 +2,6 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/infinix/lion" name="IMYdev/device_infinix_lion.git" remote="github" revision="lineage-20" />
- <project path="vendor/infinix/lion" name="IMYdev/android_vendor_infinix_lion.git" remote="github" revision="main-lion" />
- <project path="hardware/mediatek" name="snnbyyds/android_hardware_mediatek" remote="github" revision="lineage-20" />
- <project path="device/mediatek/sepolicy_vndr" name="LineageOS/android_device_mediatek_sepolicy_vndr.git" remote="github" revision="lineage-20" />
+ <project path="device/infinix/lion" name="IMYdev/android_device_infinix_X6816.git" remote="github" revision="lineage-20" />
+ <project path="vendor/infinix/lion" name="IMYdev/android_vendor_infinix_X6816.git" remote="github" revision="main-X6816" />
 </manifest>
