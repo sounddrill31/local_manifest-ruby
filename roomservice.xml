@@ -4,4 +4,6 @@
  <!-- Trees -->
  <project path="device/infinix/X6816" name="IMYdev/android_device_infinix_X6816.git" remote="github" revision="lineage-20" />
  <project path="vendor/infinix/X6816" name="IMYdev/android_vendor_infinix_X6816.git" remote="github" revision="main-X6816" />
+ <project path="kernel/infinix/X6816" name="IMYdev/android_kernel_infinix_X6816.git" remote="github" revision="main" />
+
 </manifest>
