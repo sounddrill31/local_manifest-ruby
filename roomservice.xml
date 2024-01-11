@@ -2,8 +2,9 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/infinix/X6816" name="lion-development/android_device_infinix_lion.git" remote="github" revision="lineage-18.1" />
- <project path="vendor/infinix/X6816" name="IMYdev/android_vendor_infinix_lion.git" remote="github" revision="main-lion" />
+ <project path="device/infinix/X6816" name="IMYdev/android_device_infinix_X6816.git" remote="github" revision="lineage-20" />
+ <project path="vendor/infinix/X6816" name="IMYdev/android_vendor_infinix_X6816.git" remote="github" revision="main-X6816" />
+ <project path="hardware/mediatek" name="LineageOS/android_hardware_mediatek.git" remote="github" revision="lineage-20" />
  </project>
 
 </manifest>
