@@ -7,6 +7,4 @@
  <project path="device/infinix/X6816-kernel" name="IMYdev/android_kernel_infinix_X6816.git" remote="github" revision="main">
    <linkfile src="headers" dest="kernel/infinix/X6816" />
  </project>
- <project path="hardware/mediatek" name="LineageOS/android_hardware_mediatek.git" remote="github" revision="lineage-20" />
- 
 </manifest>
