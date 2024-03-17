@@ -2,6 +2,8 @@
 <manifest>
 	<remote  name="gh"
            fetch="https://github.com" />
+	<!-- Removals -->
+	<remove-project name="hardware_xiaomi" />
 	<!-- Trees -->
 	<project path="device/xiaomi/ruby" name="Headache01/android_device_xiaomi_ruby" remote="gh" revision="aosp-14" />
 	<project path="vendor/xiaomi/ruby" name="Allien10X/android_vendor_xiaomi_ruby-" remote="github" revision="14.0" />
