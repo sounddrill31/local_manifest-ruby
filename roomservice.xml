@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-
- <!-- Trees -->
- <project path="device/infinix/X6816" name="IMYdev/android_device_infinix_X6816.git" remote="github" revision="lineage-20" />
- <project path="vendor/infinix/X6816" name="IMYdev/android_vendor_infinix_X6816.git" remote="github" revision="main-X6816" />
- <project path="device/infinix/X6816-kernel" name="IMYdev/android_kernel_infinix_X6816.git" remote="github" revision="main">
-   <linkfile src="headers" dest="kernel/infinix/X6816" />
- </project>
- <!-- SELinux Policies -->
- <project path="device/mediatek/sepolicy_vndr" name="LineageOS/android_device_mediatek_sepolicy_vndr" revision="lineage-20" />
+	<remote  name="gh"
+           fetch="https://github.com" />
+	<!-- Trees -->
+	<project path="device/xiaomi/ruby" name="Headache01/android_device_xiaomi_ruby" remote="gh" revision="aosp-14" />
+	<project path="vendor/xiaomi/ruby" name="Allien10X/android_vendor_xiaomi_ruby-" remote="github" revision="14.0" />
+	<project path="kernel/xiaomi/mt6877" name="xiaomi-mediatek-devs/android_kernel_xiaomi_mt6877" remote="github" revision="lineage-20"></project>
+	<!-- SELinux Policies -->
+	<project path="device/mediatek/sepolicy_vndr" name=" PQEnablers-Devices/android_device_mediatek_sepolicy_vndr" remote="gh" revision="lineage-21" />
+	<!-- Device Related -->
+	<project path="hardware/mediatek" name="xiaomi-mediatek-devs/android_hardware_mediatek" remote="gh" revision="lineage-21" />
+	<project path="hardware/xiaomi" name="xiaomi-mediatek-devs/android_hardware_xiaomi" remote="gh" revision="lineage-21" />
+	<project path="device/xiaomi/miuicamera-ruby" name="xiaomi-mediatek-devs/android_device_xiaomi_miuicamera-ruby" remote="gh" revision="lineage-21" />
 </manifest>
