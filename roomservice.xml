@@ -9,7 +9,7 @@
 	<project path="vendor/xiaomi/ruby" name="Allien10X/android_vendor_xiaomi_ruby-" remote="github" revision="14.0" />
 	<project path="kernel/xiaomi/mt6877" name="xiaomi-mediatek-devs/android_kernel_xiaomi_mt6877" remote="github" revision="lineage-20"></project>
 	<!-- SELinux Policies -->
-	<project path="device/mediatek/sepolicy_vndr" name=" PQEnablers-Devices/android_device_mediatek_sepolicy_vndr" remote="gh" revision="lineage-21" />
+	<project path="device/mediatek/sepolicy_vndr" name="PQEnablers-Devices/android_device_mediatek_sepolicy_vndr" remote="gh" revision="lineage-21" />
 	<!-- Device Related -->
 	<project path="hardware/mediatek" name="xiaomi-mediatek-devs/android_hardware_mediatek" remote="gh" revision="lineage-21" />
 	<project path="hardware/xiaomi" name="xiaomi-mediatek-devs/android_hardware_xiaomi" remote="gh" revision="lineage-21" />
